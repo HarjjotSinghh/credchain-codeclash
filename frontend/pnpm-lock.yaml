@@ -11,6 +11,9 @@ dependencies:
   '@aptos-labs/wallet-adapter-ant-design':
     specifier: ^2.0.0
     version: 2.2.0(@aptos-labs/ts-sdk@1.12.2)(aptos@1.21.0)(react-dom@18.2.0)(react@18.2.0)
+  '@aptos-labs/wallet-adapter-react':
+    specifier: ^2.3.1
+    version: 2.3.1(@aptos-labs/ts-sdk@1.12.2)(aptos@1.21.0)(react@18.2.0)
   '@hookform/resolvers':
     specifier: ^3.3.4
     version: 3.3.4(react-hook-form@7.51.3)
