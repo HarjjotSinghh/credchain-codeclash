@@ -5,6 +5,10 @@
 
 CredChain revolutionizes credential and certificates verification using blockchain technology.  Yes, Our platform securely stores and verifies credentials, creating an immutable and trustless system that eliminates the risk of frauds in certificates.
 
+## Screenshots
+![image](https://github.com/HarjjotSinghh/credchain-codeclash/assets/114088280/bb9e9f9a-e0b4-40b5-8f1d-b31537e3e9a9)
+
+
 ## Problem Statement
 
 - **Fraud:**  The current academic credentialing system can be vulnerable to fraud and manipulation.  Fake  degrees or forged marksheets undermine the value of legitimate achievements and harm the reputations of institutions.
