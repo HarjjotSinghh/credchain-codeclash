@@ -3,21 +3,22 @@
   
 <img src="https://raw.githubusercontent.com/HarjjotSinghh/CredChain/master/frontend/public/logo.png" align="center" width="70%"/>
 
-CredChain revolutionizes credential and certificates verification using blockchain technology.  Yes, Our platform securely stores and verifies credentials, creating an immutable and trustless system that eliminates the risk of frauds in certificates.
+CredChain revolutionizes credential and certificate verification using blockchain technology.  Yes, Our platform securely stores and verifies credentials, creating an immutable and trustless system that eliminates the risk of certificate fraud.
 
 ## Screenshots
 ![image](https://github.com/HarjjotSinghh/credchain-codeclash/assets/114088280/bb9e9f9a-e0b4-40b5-8f1d-b31537e3e9a9)
+![image](https://github.com/HarjjotSinghh/credchain-codeclash/assets/114088280/a1d1c58b-d47f-42cf-a314-98f9ea992595)
 
 
 ## Problem Statement
 
 - **Fraud:**  The current academic credentialing system can be vulnerable to fraud and manipulation.  Fake  degrees or forged marksheets undermine the value of legitimate achievements and harm the reputations of institutions.
 
-- **Inefficiency**:  Manual verification of academic certificates can be a slow, bureaucratic process. This creates time-lags for employers making hiring decisions, delays for students who need credentials recognized, and costs institutions significant resources.
+- **Inefficiency**:  Manual verification of academic certificates can be a slow, bureaucratic process. This creates time lags for employers making hiring decisions, delays for students who need credentials recognized, and costs institutions significant resources.
 
-- **Lack of Trust**: In a system plagued by potential fraud and slow verification, the authenticity of an individual's qualifications can be called into question. This casts doubt for employers and creates barriers for qualified individuals.
+- **Lack of Trust**: In a system plagued by potential fraud and slow verification, the authenticity of an individual's qualifications can be questioned. This casts doubt on employers and creates barriers for qualified individuals.
 
-- **Lack of Accessibility**: Not all stakeholders have equal access to credential verification processes. Smaller institutions or businesses may not have the resources for robust verification checks,
+- **Lack of Accessibility**: Not all stakeholders can access credential verification processes equally. Smaller institutions or businesses may not have the resources for robust verification checks,
 
 ## Technology Stack
 
